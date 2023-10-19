@@ -1,7 +1,3 @@
-// 312552026
-// 蔡濟謙
-
-
 int RED = 10;
 int GREEN = 12;
 int YELLOW = 11;
