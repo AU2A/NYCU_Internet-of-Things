@@ -12,8 +12,8 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 int pinDHT11 = 14;
 SimpleDHT11 dht11(pinDHT11);
 
-char ssid[] = "Aura iPhone";
-char pass[] = "pogi091122"; 
+char ssid[] = "";
+char pass[] = ""; 
 
 int now=0;
 int current,prev;
